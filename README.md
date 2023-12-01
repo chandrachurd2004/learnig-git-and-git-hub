@@ -64,4 +64,4 @@ git merge <...name of the branch ..... >
     to add file of that branch to the current working branch
 
 git clone <.....url......>
-    afte forking the url need to be pasted here (condition after cloning)
+    afte forking the url(i.e. url from your git hub account) need to be pasted here (condition after cloning)
