@@ -61,8 +61,8 @@ git checkout <....name to the branch .... >
     to change the current working branch to any branch we wanted
 
 git checkout <.....name of file ......>
-    to change the content of file which is present in staging area
-                note:- a file name as a.txt which is in staging are but u modified it and now u wanted the content of the file which is in stating area (i.e. u wanted to delete the modified content) then use is command , this will delete the content of file and update to the file in staging area
+    to restore the content of file(i.e. used to restore the previous content of file and delete unwanted and modified content of file)
+                note:- a file name as a.txt which is in staging are but u modified it and now u wanted the content of the file which is in stating area (i.e. u wanted to delete the modified content) then use is command , this will delete the content of file and update to the file in staging area  OR  if file is not in stating area then to the last commited file 
 
 git merge <...name of the branch ..... >
     to add file of that branch to the current working branch
